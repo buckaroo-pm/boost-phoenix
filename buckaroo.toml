@@ -1,1 +1,5 @@
 targets = [ "//:phoenix" ]
+
+[[dependencies]]
+package = "github.com/buckaroo-pm/boost-proto"
+version = "branch=master"
